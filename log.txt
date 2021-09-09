@@ -1,3 +1,53 @@
+commit 55bca961f4520df3223a79d9c904f422a8315ab3
+Merge: 0270ef4 8169d44
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 23:28:37 2021 -0500
+
+    Solucione el conflicto de las ramas al fusionar
+
+commit 0270ef4397cfe51c34be1b1843718a49d8b0e883
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 23:18:23 2021 -0500
+
+    Agregue suscripción cambié la cabecera maestra y puse todo en azul
+
+commit 8169d4429b146802681a3191f1e22b889898d6d0
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 23:12:53 2021 -0500
+
+    Modifique la cabecera y el color del texto
+
+commit c200a249523acd804d04e0152be1707bbc0dde7c
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 23:05:48 2021 -0500
+
+    Se realiza un nuevo cambio de fuente que se aplica al master del repositorio
+
+commit 5e8daf22ab7628ad9b003cea179b7836c7e713b4
+Merge: 5ab08de d7ac7ea
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 22:57:00 2021 -0500
+
+    Merge branch 'cabecera'
+
+commit 5ab08de2844bdaf3c365a99b45c2bcdc978004f7
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 22:46:15 2021 -0500
+
+    Se añade contenido final y se hace un cambio de fuente en el blog (helvetica)
+
+commit d7ac7eadd164e414a68f375bd87ebf720050cd8d
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 22:40:29 2021 -0500
+
+    Finalizada la cabecera con diseño azul
+
+commit f9439e003b778bba13ac309210c5376e8918b530
+Author: IvanGomez <ian9091@me.com>
+Date:   Wed Sep 8 22:10:42 2021 -0500
+
+    Se añade un nuevo archivo que es un log en formato de texto plano que nos ayudara a recuperar algun cambio en caso de que algo se rompa
+
 commit 7c4cacbeaba674c04321efe9dbef097d7beb02df
 Author: IvanGomez <ian9091@me.com>
 Date:   Mon Sep 6 23:16:26 2021 -0500
