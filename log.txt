@@ -1,0 +1,65 @@
+commit 7c4cacbeaba674c04321efe9dbef097d7beb02df
+Author: IvanGomez <ian9091@me.com>
+Date:   Mon Sep 6 23:16:26 2021 -0500
+
+    Estructura inicial de la cabecera
+
+commit a829d75c12621b612d89f4f6466283a404551bc4
+Author: IvanGomez <ian9091@me.com>
+Date:   Mon Sep 6 22:58:19 2021 -0500
+
+    Commit al master del blogspot en su versiòn màs reciente.
+
+commit 112d5ac5ea1483ba305e52848157dfdb61f61138
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 23:49:57 2021 -0500
+
+    Reemplazo de una versión por otra de la historia
+
+commit f045297d004d8670fe2687a9c2267778a16bafb2
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 23:35:17 2021 -0500
+
+    Cambio de maestria
+
+commit a17048f0f05ae72a4e997f451887f48e3387fcce
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 23:33:40 2021 -0500
+
+    Ahora la historia habla de su vida
+
+commit 86931b9ddf327d4e3d1e9e6f795aded31a5d1343
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 23:24:56 2021 -0500
+
+    arranco mi proyecto real con html y css
+
+commit a028a13119c7b0f8fe1b212ca299800e7cceb6d2
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 17:37:44 2021 -0500
+
+    Se cambiò la edad en esta nueva versión
+
+commit f83bc023213f84d30066f3cefcb4db1b525509ff
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 14:27:06 2021 -0500
+
+    Se añade el puesto actual de Ivan.
+
+commit 26dc8d0d947e7d1177029147ce7e7637f36318e0
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 14:21:10 2021 -0500
+
+    Se ha añadido un parrafo sobre lo guapo que es en vivo.
+
+commit 24055a4e7da2ebc3f284eafc96d1f2746aeb69d8
+Author: IvanGomez <ian9091@me.com>
+Date:   Thu Sep 2 01:04:28 2021 -0500
+
+    se a modificado la ciudad de la historia
+
+commit ab1a8e90ffafd5b141ef4b7670b43a62ba2629d3
+Author: CapChupaconchas <ian9091@me.com>
+Date:   Thu Sep 2 00:52:13 2021 -0500
+
+    Este es el primer commit del repositorio
